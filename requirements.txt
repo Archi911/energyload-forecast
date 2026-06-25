@@ -1,0 +1,18 @@
+# Machine Learning Core (Kaggle / Training)
+torch==2.1.0
+pandas==2.1.1
+numpy==1.26.0
+scikit-learn==1.3.1
+
+# Backend API
+fastapi==0.103.2
+uvicorn==0.23.2
+
+# Database Connectivity
+supabase==1.2.0
+python-dotenv==1.0.0
+
+# Enterprise Dashboard
+streamlit==1.27.0
+matplotlib==3.8.0
+plotly
